@@ -1,2 +1,12 @@
-# leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+This repository contains my accepted LeetCode solutions in Python.
+
+## 🎯 Goals
+- Strengthen Data Structures and Algorithms (DSA)
+- Improve problem-solving skills
+- Prepare for technical interviews
+- Write clean and efficient Python code
+
+## 📌 Language
+- Python
