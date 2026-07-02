@@ -16,6 +16,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -25,4 +26,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
