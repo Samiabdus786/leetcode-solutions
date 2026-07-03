@@ -19,10 +19,12 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +43,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
