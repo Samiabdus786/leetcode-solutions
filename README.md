@@ -19,6 +19,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
@@ -67,4 +68,5 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
