@@ -26,6 +26,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 ## Two Pointers
@@ -40,6 +41,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
