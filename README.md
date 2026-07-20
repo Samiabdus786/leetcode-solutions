@@ -17,6 +17,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -43,6 +45,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
