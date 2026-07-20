@@ -73,6 +73,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
