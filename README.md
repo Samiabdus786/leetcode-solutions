@@ -57,6 +57,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -75,6 +76,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
@@ -118,4 +120,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
