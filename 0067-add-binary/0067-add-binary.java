@@ -1,3 +1,4 @@
+
 class Solution {
     public String addBinary(String a, String b) {
         char[] charArrA = a.toCharArray();
