@@ -77,6 +77,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0009-palindrome-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
@@ -125,4 +127,9 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
