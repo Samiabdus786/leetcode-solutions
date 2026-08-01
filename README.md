@@ -83,6 +83,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -96,6 +97,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -137,4 +139,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
