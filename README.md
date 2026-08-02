@@ -78,6 +78,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
