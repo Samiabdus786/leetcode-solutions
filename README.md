@@ -34,6 +34,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -110,6 +112,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -151,4 +154,16 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
