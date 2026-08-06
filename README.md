@@ -63,6 +63,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -132,6 +133,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Number Theory
@@ -141,6 +143,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
