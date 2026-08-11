@@ -17,6 +17,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -42,6 +43,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -122,6 +124,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Database
 |  |
