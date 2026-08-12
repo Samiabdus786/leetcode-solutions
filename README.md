@@ -20,6 +20,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0011-container-with-most-water](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -68,6 +70,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -150,6 +153,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
