@@ -33,6 +33,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0219-contains-duplicate-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -51,6 +52,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0169-majority-element](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -75,6 +78,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0219-contains-duplicate-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +112,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
