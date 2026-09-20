@@ -36,6 +36,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -170,6 +172,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
