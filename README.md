@@ -168,6 +168,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -213,6 +214,7 @@ This repository contains my accepted LeetCode solutions in Python.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -234,4 +236,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
