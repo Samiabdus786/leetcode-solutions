@@ -118,6 +118,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
