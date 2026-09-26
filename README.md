@@ -58,6 +58,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0189-rotate-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -185,6 +186,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0067-add-binary](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
