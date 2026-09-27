@@ -142,6 +142,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0476-number-complement](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0476-number-complement) |
 ## Dynamic Programming
 |  |
 | ------- |
