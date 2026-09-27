@@ -164,6 +164,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
