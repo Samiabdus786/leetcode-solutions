@@ -120,6 +120,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0231-power-of-two](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
