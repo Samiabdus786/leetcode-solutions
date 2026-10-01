@@ -63,6 +63,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +204,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Simulation
 |  |
 | ------- |
