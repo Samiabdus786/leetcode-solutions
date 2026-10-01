@@ -126,6 +126,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
