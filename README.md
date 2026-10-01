@@ -40,6 +40,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0500-keyboard-row](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -277,4 +279,12 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
