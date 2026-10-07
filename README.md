@@ -136,6 +136,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | ------- |
 | [0069-sqrtx](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
@@ -290,4 +291,8 @@ This repository contains my accepted LeetCode solutions in Python.
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
