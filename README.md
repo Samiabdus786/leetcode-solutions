@@ -48,6 +48,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [1929-concatenation-of-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
