@@ -46,6 +46,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -78,6 +79,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0575-distribute-candies](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -207,6 +210,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Simulation
 |  |
 | ------- |
