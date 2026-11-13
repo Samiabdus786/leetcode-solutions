@@ -135,6 +135,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Database
 |  |
 | ------- |
