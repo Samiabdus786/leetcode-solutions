@@ -43,6 +43,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -66,6 +67,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0414-third-maximum-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
@@ -144,6 +147,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0278-first-bad-version](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
