@@ -136,6 +136,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0728-self-dividing-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -218,6 +219,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [0680-valid-palindrome-ii](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Samiabdus786/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2409-count-days-spent-together](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
 | ------- |
