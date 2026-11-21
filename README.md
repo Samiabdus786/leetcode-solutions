@@ -50,6 +50,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ This repository contains my accepted LeetCode solutions in Python.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samiabdus786/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiabdus786/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Samiabdus786/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
